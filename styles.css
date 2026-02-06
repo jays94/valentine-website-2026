@@ -89,7 +89,7 @@ body {
 .secret-answer {
     position: fixed;
     bottom: 100px;
-    right: 100px;
+    right: 150px;
     margin-top: 0;
     opacity: 0.2;
     transition: opacity 0.3s;
